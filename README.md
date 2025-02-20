@@ -5,3 +5,5 @@
 consistency is the key 🗝️
 
 looking for a better life 👀
+
+i love music 🎵
