@@ -1,8 +1,7 @@
-## Hi there 👋
+## Hi There! 👋
 
  i want to learn more!
 
- Study is the key 🗝️
+consistency is the key 🗝️
 
-
-
+looking for a better life 👀
