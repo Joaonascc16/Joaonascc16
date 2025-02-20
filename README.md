@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="160" src="https://media1.tenor.com/m/H8sFCwcrb6UAAAAC/bruh.gif"  />
+<img align="right" height="160" src="https://media.tenor.com/EstgbDYL52oAAAAi/dullbrad-yuri.gif"  />
 
 ###
 
