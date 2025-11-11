@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Me chamo João, tenho 17 anos e estudo programação a um tempo.<br>Objetivo: Aprender e evoluir cada vez mais na área.</p>
+<p align="left">Me chamo João, tenho 17 anos e estudo programação a um tempo, ainda sou iniciante.<br>Objetivo: Aprender e evoluir cada vez mais na área.</p>
 
 ###
 
