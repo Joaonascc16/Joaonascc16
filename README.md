@@ -36,15 +36,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/76/09/46/7609468e97e15d1da8d14d534be7366c.gif"  />
-</div>
 
 ###
