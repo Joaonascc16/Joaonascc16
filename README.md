@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 Joaonascc
 **`Desenvolvedor Fullstack`**
 
-Olá, me chamo  João tenho 17 anos e sou natural do Ceará mas atualmente morando em Santa Catarina / Blumenau. Estou cursando o curso de Técnico em Desenvolvimento de Sistemas no Senai no qual planejo finalizar em 2026. Compartilho meu conhecimento e aprendizado aqui no GitHub onde estão presentes meus códigos e projetos. Ainda me encontro como iniciante mas com o objetivo de aprender cada vez mais.
+Olá, me chamo  João tenho 17 anos e sou natural do Ceará mas atualmente moro em Santa Catarina / Blumenau. Estou cursando o curso de Técnico em Desenvolvimento de Sistemas no Senai no qual planejo finalizar em 2026. Compartilho meu conhecimento e aprendizado aqui no GitHub onde estão presentes meus códigos e projetos. Ainda me encontro como iniciante mas com o objetivo de aprender cada vez mais.
 
 <p align="left">
     <a href="https://github.com/Joaonascc16">
