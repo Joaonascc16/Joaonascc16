@@ -22,7 +22,16 @@
 
 ###
 
+## 🚀 Projeto em destaque
+
+
+💰 **Finance App**  
+Aplicação de controle financeiro com autenticação JWT, estrutura em camadas e testes unitários.
+
+🔧 Tecnologias: Java, Spring Boot, JWT, H2/PostgreSQL  
+
 <h2 align="left">Linguagens e Tecnologias</h2>
+
 
 ###
 
