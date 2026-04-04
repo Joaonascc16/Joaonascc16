@@ -1,105 +1,49 @@
-# 🧑🏻‍💻 Joaonascc
-**`Desenvolvedor Fullstack`**
+<h1 align="left">👨‍💻​ Joaonascc</h1>
 
-Olá, me chamo  João tenho 17 anos e sou natural do Ceará mas atualmente morando em Santa Catarina / Blumenau. Estou cursando o curso de Técnico em Desenvolvimento de Sistemas no Senai no qual planejo finalizar em 2026. Compartilho meu conhecimento e aprendizado aqui no GitHub onde estão presentes meus códigos e projetos. Ainda me encontro como iniciante mas com o objetivo de aprender cada vez mais.
+###
 
-<p align="left">
-    <a href="https://github.com/Joaonascc16">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Joaonascc16?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Joaonascc16?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Joaonascc16?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<p align="left">**Desenvolvedor FullStack em Formação**</p>
 
----
+###
 
-### 🤖 Linguagens e Tecnologias
+<h2 align="left">Sobre Mim</h2>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
- 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
- <img
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
- 
-    
+###
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<p align="left">Me chamo João, tenho 17 anos e sou natural do Ceará, atualmente residindo em Santa Catarina (Blumenau).  <br>Sou estudante de Técnico em Desenvolvimento de Sistemas pelo SENAI, com conclusão prevista para 2026.<br><br>Atualmente estou focado no desenvolvimento de aplicações completas, com ênfase em boas práticas, organização de código e construção de soluções reais.  <br>Utilizo este perfil para documentar minha evolução e publicar projetos que refletem meu aprendizado.</p>
 
+###
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-          
-<br/>
-<br/>
+<div align="left">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-do-nascimento-morais-a3835437a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-### 📊 Estatísticas
+###
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Joaonascc16&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />
+<h2 align="left">Linguagens e Tecnologias</h2>
 
-<br/>
-<br/>
+###
 
-<img 
-      align="left" 
-    alt="GitHub Stats" 
-    height="155" 
-    style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaonascc16&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-</p>
+###
