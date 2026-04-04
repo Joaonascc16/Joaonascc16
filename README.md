@@ -1,8 +1,5 @@
 <h1 align="left">👨‍💻​ Joaonascc</h1>
 
-###
-
-<p align="left">**Desenvolvedor FullStack em Formação**</p>
 
 ###
 
@@ -22,18 +19,23 @@
 
 ###
 
-## 🚀 Projeto em destaque
+## 🚀 Projeto em desenvolvimento
 
+💰 **Finance App** *(em desenvolvimento)*  
+Aplicação de controle financeiro focada em backend com Java e Spring Boot.
 
-💰 **Finance App**  
-Aplicação de controle financeiro com autenticação JWT, estrutura em camadas e testes unitários.
+✔ Autenticação JWT implementada  
+✔ Estrutura em camadas (Controller, Service, Repository)  
+✔ Tratamento de exceções  
+✔ Testes unitários  
 
-🔧 Tecnologias: Java, Spring Boot, JWT, H2/PostgreSQL  
-
-<h2 align="left">Linguagens e Tecnologias</h2>
-
+🚧 Em progresso:
+- Integração com frontend  
+- Deploy  
 
 ###
+
+<h2 align="left">Linguagens e Tecnologias</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
