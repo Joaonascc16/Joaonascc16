@@ -19,19 +19,6 @@
 
 ###
 
-## 🚀 Projeto em desenvolvimento
-
-💰 **Finance App** *(em desenvolvimento)*  
-Aplicação de controle financeiro focada em backend com Java e Spring Boot.
-
-✔ Autenticação JWT implementada  
-✔ Estrutura em camadas (Controller, Service, Repository)  
-✔ Tratamento de exceções  
-✔ Testes unitários  
-
-🚧 Em progresso:
-- Integração com frontend  
-- Deploy  
 
 ###
 
