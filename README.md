@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Me chamo João, tenho 17 anos e sou natural do Ceará, atualmente residindo em Santa Catarina (Blumenau).  <br>Sou estudante de Técnico em Desenvolvimento de Sistemas pelo SENAI, com conclusão prevista para 2026.<br><br>Atualmente estou focado no desenvolvimento de aplicações completas, com ênfase em boas práticas, organização de código e construção de soluções reais.  <br>Utilizo este perfil para documentar minha evolução e publicar projetos que refletem meu aprendizado.</p>
+<p align="left">Me chamo João, tenho 18 anos e sou natural do Ceará, atualmente residindo em Santa Catarina (Blumenau).  <br>Sou estudante de Técnico em Desenvolvimento de Sistemas pelo SENAI, com conclusão prevista para 2026.<br><br>Atualmente estou focado no desenvolvimento de aplicações completas, com ênfase em boas práticas, organização de código e construção de soluções reais.  <br>Utilizo este perfil para documentar minha evolução e publicar projetos que refletem meu aprendizado.</p>
 
 ###
 
