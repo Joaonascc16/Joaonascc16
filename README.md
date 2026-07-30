@@ -1,47 +1,117 @@
-<h1 align="left">👨‍💻​ Joaonascc</h1>
+<h1 align="center">Olá, eu sou o João 👋</h1>
 
+<p align="center">
+💻 Desenvolvedor Back-end em formação • Java • Spring Boot
+</p>
 
-###
+<p align="center">
+<a href="SEU_LINKEDIN">LinkedIn</a> •
+<a href="https://github.com/Joaonascc16">GitHub</a>
+</p>
 
-<h2 align="left">Sobre Mim</h2>
+---
 
-###
+## 🚀 Sobre mim
 
-<p align="left">Me chamo João, tenho 18 anos e sou natural do Ceará, atualmente residindo em Santa Catarina (Blumenau).  <br>Sou estudante de Técnico em Desenvolvimento de Sistemas pelo SENAI, com conclusão prevista para 2026.<br><br>Atualmente estou focado no desenvolvimento de aplicações completas, com ênfase em boas práticas, organização de código e construção de soluções reais.  <br>Utilizo este perfil para documentar minha evolução e publicar projetos que refletem meu aprendizado.</p>
+🎓 Estudante de Desenvolvimento de Sistemas pelo SENAI
 
-###
+💼 Atualmente atuo como Auxiliar Administrativo
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-do-nascimento-morais-a3835437a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+📍 Resido em Blumenau - SC
 
-###
+☕ Focado em desenvolvimento Back-end com Java e Spring Boot.
 
+📚 Estou constantemente estudando boas práticas, arquitetura de software e desenvolvimento de APIs REST.
 
-###
+🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Java Júnior.
 
-<h2 align="left">Linguagens e Tecnologias</h2>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+## 🛠️ Tecnologias
 
-###
+### Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css" />
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring" />
+</p>
+
+### Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,idea,vscode" />
+</p>
+
+---
+
+## 📖 Atualmente estudando
+
+- Java Avançado
+- Spring Boot
+- APIs REST
+- JPA/Hibernate
+- MySQL
+- Docker
+- Testes com JUnit
+- Clean Code
+- Design Patterns
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joaonascc16&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaonascc16&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Joaonascc16&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📌 Projetos em destaque
+
+- 📅 Sistema de Agendamento
+- 💰 Finance App
+- 📚 Projetos de estudos em Java
+- 🌐 APIs REST com Spring Boot
+
+---
+
+## 📫 Contato
+
+📧 Seu Email
+
+💼 LinkedIn: SEU_LINKEDIN
+
+🐙 GitHub: https://github.com/Joaonascc16
+
+---
+
+<p align="center">
+
+"Transformando aprendizado em projetos reais."
+
+</p>
