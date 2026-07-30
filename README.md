@@ -4,11 +4,6 @@
 💻 Desenvolvedor Back-end em formação • Java • Spring Boot
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/joaonascc/">LinkedIn</a> •
-<a href="https://github.com/Joaonascc16">GitHub</a>
-</p>
-
 ---
 
 ## 🚀 Sobre mim
