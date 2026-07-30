@@ -75,7 +75,6 @@
 ## 📌 Projetos em destaque
 
 - 📅 Sistema de Agendamento
-- 💰 Finance App
 - 📚 Projetos de estudos em Java
 - 🌐 APIs REST com Spring Boot
 
@@ -86,8 +85,6 @@
 📧 Gmail: donascimentomoraisj@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/joaonascc/
-
-🐙 GitHub: https://github.com/Joaonascc16
 
 ---
 
