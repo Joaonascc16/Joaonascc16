@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<a href="www.linkedin.com/in/joaonascc">LinkedIn</a> •
+<a href="https://www.linkedin.com/in/joaonascc/">LinkedIn</a> •
 <a href="https://github.com/Joaonascc16">GitHub</a>
 </p>
 
@@ -104,7 +104,7 @@
 
 📧 Seu Email
 
-💼 LinkedIn: www.linkedin.com/in/joaonascc
+💼 LinkedIn: https://www.linkedin.com/in/joaonascc/
 
 🐙 GitHub: https://github.com/Joaonascc16
 
