@@ -70,14 +70,6 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Joaonascc16&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaonascc16&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-<p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Joaonascc16&theme=tokyonight&hide_border=true"/>
 
