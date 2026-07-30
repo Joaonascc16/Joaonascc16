@@ -15,15 +15,13 @@
 
 🎓 Estudante de Desenvolvimento de Sistemas pelo SENAI
 
-💼 Atualmente atuo como Auxiliar Administrativo
-
 📍 Resido em Blumenau - SC
 
 ☕ Focado em desenvolvimento Back-end com Java e Spring Boot.
 
 📚 Estou constantemente estudando boas práticas, arquitetura de software e desenvolvimento de APIs REST.
 
-🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Java Júnior.
+🎯 Objetivo: conquistar minha primeira oportunidade como Desenvolvedor Java Júnior e me desenvolver como Desenvolvedor
 
 ---
 
@@ -81,8 +79,6 @@
 
 ---
 
-## 🔥 Streak
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Joaonascc16&theme=tokyonight&hide_border=true"/>
@@ -102,16 +98,12 @@
 
 ## 📫 Contato
 
-📧 Seu Email
+📧 Gmail: donascimentomoraisj@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/joaonascc/
 
 🐙 GitHub: https://github.com/Joaonascc16
 
 ---
-
-<p align="center">
-
-"Transformando aprendizado em projetos reais."
 
 </p>
